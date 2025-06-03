@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3yvxyG83H+k=",
+  "success": true,
+  "projectFilePath": "/Users/guillermotantaleanmesta/Documents/UPC/2025_1/aplicacionesWeb/youper/youper-backend/Youper.API/Youper.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/guillermotantaleanmesta/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/Users/guillermotantaleanmesta/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
