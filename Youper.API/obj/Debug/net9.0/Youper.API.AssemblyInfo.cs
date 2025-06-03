@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Youper.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c3aa08915be35f577334a29a8ba74536975d666")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1f49e90ad4632371a79ee9c0d7fdce9f8c20118")]
 [assembly: System.Reflection.AssemblyProductAttribute("Youper.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Youper.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
