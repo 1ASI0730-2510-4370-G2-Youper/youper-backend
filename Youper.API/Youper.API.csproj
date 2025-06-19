@@ -11,12 +11,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Application\CommandServices\" />
-    <Folder Include="Application\QueryServices\" />
-    <Folder Include="Controllers\" />
-    <Folder Include="Domain\Models\" />
-    <Folder Include="Domain\Repositories\" />
-    <Folder Include="Domain\Services\" />
+    <Folder Include="Patient\Domain\" />
+    <Folder Include="Patient\Infrastucture\" />
+    <Folder Include="Patient\Interfaces\" />
+    <Folder Include="Shared\Interfaces\" />
   </ItemGroup>
 
 </Project>
