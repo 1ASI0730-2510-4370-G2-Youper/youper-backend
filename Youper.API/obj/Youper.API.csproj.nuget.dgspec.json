@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/guillermotantaleanmesta/Documents/UPC/2025_1/aplicacionesWeb/youper/youper-backend/Youper.API/Youper.API.csproj": {}
+    "C:\\Users\\PEDRO\\upc\\2510\\1asi0730\\4370\\youper-backend\\Youper.API\\Youper.API.csproj": {}
   },
   "projects": {
-    "/Users/guillermotantaleanmesta/Documents/UPC/2025_1/aplicacionesWeb/youper/youper-backend/Youper.API/Youper.API.csproj": {
+    "C:\\Users\\PEDRO\\upc\\2510\\1asi0730\\4370\\youper-backend\\Youper.API\\Youper.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/guillermotantaleanmesta/Documents/UPC/2025_1/aplicacionesWeb/youper/youper-backend/Youper.API/Youper.API.csproj",
+        "projectUniqueName": "C:\\Users\\PEDRO\\upc\\2510\\1asi0730\\4370\\youper-backend\\Youper.API\\Youper.API.csproj",
         "projectName": "Youper.API",
-        "projectPath": "/Users/guillermotantaleanmesta/Documents/UPC/2025_1/aplicacionesWeb/youper/youper-backend/Youper.API/Youper.API.csproj",
-        "packagesPath": "/Users/guillermotantaleanmesta/.nuget/packages/",
-        "outputPath": "/Users/guillermotantaleanmesta/Documents/UPC/2025_1/aplicacionesWeb/youper/youper-backend/Youper.API/obj/",
+        "projectPath": "C:\\Users\\PEDRO\\upc\\2510\\1asi0730\\4370\\youper-backend\\Youper.API\\Youper.API.csproj",
+        "packagesPath": "C:\\Users\\PEDRO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PEDRO\\upc\\2510\\1asi0730\\4370\\youper-backend\\Youper.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/guillermotantaleanmesta/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\PEDRO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -44,9 +44,41 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "EntityFrameworkCore.CreatedUpdatedDate": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[8.1.4, )"
+            },
+            "Swashbukle.AspNetCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
             }
           },
           "imports": [
@@ -68,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\PEDRO\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
